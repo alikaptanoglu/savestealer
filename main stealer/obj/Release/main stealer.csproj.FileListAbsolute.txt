@@ -1,0 +1,7 @@
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\bin\Release\main stealer.exe.config
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\bin\Release\main stealer.exe
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\bin\Release\main stealer.pdb
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\obj\Release\main stealer.csproj.CoreCompileInputs.cache
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\obj\Release\main stealer.exe
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\obj\Release\main stealer.pdb
+C:\Users\ESE\Desktop\memo files\Memo\Oyunlar\Growtopia\abt\github\save stealer by memo\main stealer\main stealer\obj\Release\main stealer.csprojAssemblyReference.cache
