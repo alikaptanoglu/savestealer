@@ -22,6 +22,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 3. After opening the file press Ctrl+Alt+L and open _Solution Navigator_
 4. Find _Program.cs_ in the Solution Navigator
 5. Double click on and open it
+6. Change the mail parts
 
 ## Debugging
 1. Set build to Debug x64 (x64 is not necessarily)
