@@ -8,7 +8,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 * Open your _gmail_'s **Security** part. [Here](https://myaccount.google.com/security "Google Search")
 * Scroll down until you see _Less secure app access_.
 * Click to the button and open it.
-* If theres a Save Button, then click to the Save button.
+* If theres a Save Button, then click to the Save Button.
 
 ### _Picture of the last step_
 ![Pic1](https://www.linkpicture.com/q/asddsa.png)
