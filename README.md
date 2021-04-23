@@ -1,7 +1,6 @@
 # _Save Stealer_
 A program that allows you to send you the victim's save.dat in Growtopia.
 
-## **IMPORTANT THINGS**
 ### Don't forgot to change mails.
 
 ## **Do these steps before running the program**
