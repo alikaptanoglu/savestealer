@@ -31,7 +31,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 2. Open the _Bin_ folder and then open the _Debug_ folder
 3. You will see _main stealer.exe_ file
 4. Send it to the victim
-5. When the victim opens the file, victim's save.dat file will automatically will send to the mail that you wrote in the code
+5. When the victim opens it, victim's save.dat file will automatically will send to the mail that you wrote in the code
 6. Use save.dat decoder to get _GrowID_ and _Password_
 7. You can search [save.dat decoder](https://www.google.com/search?q=save.dat+decoder "Google Search") at Google to find a decoder
 
