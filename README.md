@@ -16,7 +16,7 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 ## Getting ready for debugging
 1. Install Visual Studio C# 2019 if you dont have. (Can find tutorials on [Youtube](https://www.youtube.com/ "Google Search"))
     * [Example tutorial](https://www.youtube.com/watch?v=Bu26MZAv12E "Google Search")
-2. Right click _main stealer.sln_ file and open it with **Visual Studio**
+2. Right click to the _main stealer.sln_ file and open it with **Visual Studio**
 3. After opening the file press Ctrl+Alt+L and open _Solution Navigator_
 4. Find _Program.cs_ in the Solution Navigator
 5. Double click and open it
