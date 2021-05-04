@@ -10,7 +10,6 @@ A program that allows you to send you the victim's save.dat in Growtopia.
 * Click to the button and open it.
 * If theres a Save Button, then click to the Save Button.
 
-### _Picture of the last step_
 ![Pic1](https://www.linkpicture.com/q/asddsa.png)
 
 ## Getting ready for debugging
