@@ -1,4 +1,4 @@
-# _Save Stealer_
+# **TRASH** _Save Stealer_
 A program that allows you to send you the victim's save.dat in Growtopia.
 
 * Do _extract to folder ..._ while extracting the .ZIP file
