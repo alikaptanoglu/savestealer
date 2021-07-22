@@ -1,3 +1,4 @@
+# **dont use this sh1t lmao its trash as h3ll**
 # **TRASH** _Save Stealer_
 A program that allows you to send you the victim's save.dat in Growtopia.
 
